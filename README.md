@@ -45,8 +45,8 @@ Pegarlo en tu README.md del repositorio con el mismo nombre que tu perfil.
 ---
 
 ### 📫 ¿Cómo contactarme?
-- ✉️ [tu-correo]  
-- 🔗 [tu LinkedIn]
+- ✉️ Gracestudentdev@gmail.com  
+- 🔗 [[tu LinkedIn]](https://www.linkedin.com/in/grace-ibarra-rodas-851819366/)
 
 ---
 
