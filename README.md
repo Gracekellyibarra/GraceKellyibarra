@@ -9,7 +9,7 @@
 </head>
 <body>
   <header>
-    <h1>🌐 Portafolio de Kareli Rodríguez</h1>
+    <h1>🌐 Portafolio de Grace Ibarra</h1>
     <p>Desarrolladora Full Stack 💻 | Analista de Datos 📊 | Ciberseguridad 🛡️</p>
     <nav>
       <ul>
