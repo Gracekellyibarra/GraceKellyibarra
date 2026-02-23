@@ -1,64 +1,131 @@
+# 🌐 Portafolio de Grace Kelly Ibarra
+
+Desarrolladora Full Stack 💻 | Analista de Datos 📊 | Ciberseguridad 🛡️
+
+## 💼 Sobre mí
+
+Egresada de **Ingeniería de Software** con enfoque en **Desarrollo Full Stack**. 
+Experiencia en aplicaciones web, análisis de datos, desarrollo backend y frontend, y más. 
+Certificada por **IBM**, **Google**, **Cisco**, **Microsoft** y **Johns Hopkins**.
+
+## 💻 Proyectos Full Stack
+
+### Aplicación Web Full Stack
+Desarrollo de aplicación con HTML, CSS y JavaScript, integrando backend en Node.js y base de datos relacional.
+
+### Sistema de Gestión Estudiantil (C#)
+Implementación de un sistema modular y estructurado de datos.
+
+### Dashboard de KPIs - Power BI
+Visualización de indicadores académicos y comerciales utilizando DAX y Power Query.
+
+## 📞 Contacto
+
+Puedes contactarme a través de mis redes:
+
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [WhatsApp](https://wa.me/tu-numero)
+- [Email](mailto:kareli@example.com)
+
+## 🌍 Universidades
+
+Universidad Tecnológica del Perú ![UTP Logo](path_to_utp_logo.png) | Johns Hopkins University ![Hokings Logo](path_to_hokings_logo.png)
+
+## 💻 Certificaciones
+
+- ![IBM Logo](path_to_ibm_logo.png) **IBM**
+- ![Cisco Logo](path_to_cisco_logo.png) **Cisco**
+- ![Microsoft Logo](path_to_microsoft_logo.png) **Microsoft**
+
+## 💡 Estilo Matrix
+
+```html
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Portafolio - Grace Kelly Ibarra</title>
-  <link rel="stylesheet" href="styles.css">
-  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-</head>
-<body>
-  <header>
-    <h1>🌐 Portafolio de Grace Ibarra</h1>
-    <p>Desarrolladora Full Stack 💻 | Analista de Datos 📊 | Ciberseguridad 🛡️</p>
-    <nav>
-      <ul>
-        <li><a href="#sobre-mi">Sobre mí</a></li>
-        <li><a href="#proyectos">Proyectos</a></li>
-        <li><a href="#contacto">Contacto</a></li>
-      </ul>
-    </nav>
-  </header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Portafolio - Grace Kelly Ibarra</title>
+    <style>
+      body {
+        font-family: "Courier New", Courier, monospace;
+        background-color: #000;
+        color: #00ff00;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+        font-size: 1.2em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      header {
+        text-align: center;
+        padding: 20px;
+      }
+      header h1 {
+        font-size: 3em;
+        text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00;
+      }
+      section {
+        width: 80%;
+        max-width: 800px;
+        padding: 20px;
+      }
+      section h2 {
+        font-size: 2.5em;
+        margin-bottom: 20px;
+      }
+      .proyecto {
+        background-color: #111;
+        border-radius: 10px;
+        padding: 15px;
+        margin: 15px 0;
+      }
+      .proyecto h3 {
+        font-size: 2em;
+      }
+      .redes a {
+        display: inline-block;
+        margin-right: 20px;
+        padding: 10px 20px;
+        background-color: #00ff00;
+        color: black;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 1.2em;
+      }
+      footer {
+        margin-top: 20px;
+        font-size: 1.2em;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>🌐 Portafolio de Grace Kelly Ibarra</h1>
+      <p>Desarrolladora Full Stack 💻 | Analista de Datos 📊 | Ciberseguridad 🛡️</p>
+    </header>
 
-  <section id="sobre-mi">
-    <h2>💼 Sobre mí</h2>
-    <p>
-      Egresada de <span class="highlight">Ingeniería de Software</span> con enfoque en <span class="highlight">Desarrollo Full Stack</span>.
-      Experiencia en aplicaciones web, análisis de datos, desarrollo backend y frontend, y más. Certificada por <span class="highlight">IBM</span>, 
-      <span class="highlight">Google</span>, <span class="highlight">Cisco</span>, <span class="highlight">Microsoft</span> y <span class="highlight">Johns Hopkins</span>.
-    </p>
-  </section>
+    <section id="sobre-mi">
+      <h2>💼 Sobre mí</h2>
+      <p>
+        Egresada de <span class="highlight">Ingeniería de Software</span> con enfoque en
+        <span class="highlight">Desarrollo Full Stack</span>.
+      </p>
+    </section>
 
-  <section id="proyectos">
-    <h2>💻 Proyectos Full Stack</h2>
-    <div class="proyecto">
-      <h3>Aplicación Web Full Stack</h3>
-      <p>Desarrollo de aplicación con HTML, CSS y JavaScript, integrando backend en Node.js y base de datos relacional.</p>
-    </div>
-    <div class="proyecto">
-      <h3>Sistema de Gestión Estudiantil (C#)</h3>
-      <p>Implementación de un sistema modular y estructurado de datos.</p>
-    </div>
-    <div class="proyecto">
-      <h3>Dashboard de KPIs - Power BI</h3>
-      <p>Visualización de indicadores académicos y comerciales utilizando DAX y Power Query.</p>
-    </div>
-  </section>
+    <section id="proyectos">
+      <h2>💻 Proyectos Full Stack</h2>
+      <div class="proyecto">
+        <h3>Aplicación Web Full Stack</h3>
+        <p>Desarrollo de aplicación con HTML, CSS y JavaScript, integrando backend en Node.js y base de datos relacional.</p>
+      </div>
+    </section>
 
-  <section id="contacto">
-    <h2>📞 Contacto</h2>
-    <p>Puedes contactarme a través de mis redes:</p>
-    <div class="redes">
-      <a href="https://www.linkedin.com/in/tu-perfil" target="_blank" class="btn-linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a href="https://wa.me/tu-numero" target="_blank" class="btn-whatsapp"><i class="fab fa-whatsapp"></i> WhatsApp</a>
-      <a href="mailto:kareli@example.com" class="btn-email"><i class="fas fa-envelope"></i> Email</a>
-    </div>
-    <p>Universidad Tecnológica del Perú <img src="path_to_utp_logo.png" alt="UTP Logo" width="50" /> | Johns Hopkins University <img src="path_to_hokings_logo.png" alt="Johns Hopkins Logo" width="50" /></p>
-    <p>Certificaciones: <img src="path_to_ibm_logo.png" alt="IBM Logo" width="50" /> | <img src="path_to_cisco_logo.png" alt="Cisco Logo" width="50" /> | <img src="path_to_microsoft_logo.png" alt="Microsoft Logo" width="50" /></p>
-  </section>
-
-  <footer>
-    <p>&copy; 2026 Kareli Rodríguez. Todos los derechos reservados.</p>
-  </footer>
-</body>
+    <footer>
+      <p>&copy; 2026 Grace Kelly Ibarra. Todos los derechos reservados.</p>
+    </footer>
+  </body>
 </html>
