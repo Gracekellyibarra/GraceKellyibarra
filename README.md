@@ -50,7 +50,7 @@ link project: (https://pagina-constructorardh-1.onrender.com/)
 
 Code Project: (https://github.com/Gracekellyibarra/RDHPAGEWEB.git)
 * **ES:** Sitio corporativo con arquitectura MVC, incluyendo calculadora de inversión y despliegue en Hosting/DNS productivo.
-* **EN:** Corporate website with MVC architecture, including an investment calculator and deployment to productive Hosting/DNS.
+* **EN:** Corporate website with MVC architecture, including an investment calculator.
 * [IMAGES]
   
 <img width="1796" height="982" alt="Sin título" src="https://github.com/user-attachments/assets/a7bf1d9c-a04f-4b74-88d0-208bb44ff0d6" />
