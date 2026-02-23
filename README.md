@@ -39,10 +39,16 @@
 
 ### 🎬 Cinema web (Full Stack)
 
-Code Project: ()
+Español:
+Aplicación Full Stack diseñada para la gestión de una plataforma de cine. Utiliza Node.js y Express en el backend para procesar reservas y administrar la cartelera, mientras que el frontend está construido con HTML5, CSS3 y JavaScript para ofrecer una experiencia de usuario fluida. El sistema se integra con una base de datos relacional (MySQL/SQL Server) para el almacenamiento de películas, horarios y datos de usuarios, aplicando una arquitectura modular que facilita el mantenimiento y escalabilidad del código.
+
+English:
+A Full Stack application developed for cinema platform management. It leverages Node.js and Express on the backend to handle bookings and movie listings, with a frontend built on HTML5, CSS3, and JavaScript for a seamless user experience. The system integrates a relational database (MySQL/SQL Server) to store movie data, schedules, and user information, following a modular architecture that ensures code maintainability and scalability.
+
+Code Project: (https://github.com/Gracekellyibarra/CINEMA-REPOSITORY.git)
 * **ES:** Sistema de gestión cinematográfica con Node.js, Express y bases de datos relacionales.
 * **EN:** Cinema management system built with Node.js, Express, and relational databases.
-* [LIVE DEMO] | [SOURCE CODE]
+<img width="1031" height="900" alt="Captura de pantalla 2026-02-22 210715" src="https://github.com/user-attachments/assets/0e7f053d-b67c-41db-b387-134af40ea645" />
 
 ### 🏗️ RDH Constructora Web (Full Stack) 
 
