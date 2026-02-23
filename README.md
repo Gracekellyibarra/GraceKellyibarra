@@ -44,7 +44,13 @@ Code Project: ()
 * **EN:** Cinema management system built with Node.js, Express, and relational databases.
 * [LIVE DEMO] | [SOURCE CODE]
 
-### 🏗️ RDH Constructora Web (Full Stack)
+### 🏗️ RDH Constructora Web (Full Stack) 
+
+Español:
+Este proyecto es una aplicación Full Stack desarrollada bajo la arquitectura MVC. Utiliza Node.js y Express para la lógica del servidor, integrando HTML5, CSS3 y JavaScript para una interfaz dinámica que incluye un catálogo de proyectos y una calculadora de inversión personalizada. El sistema gestiona datos estructurados mediante bases de datos relacionales y está desplegado en un entorno productivo con configuración profesional de Hosting y DNS.
+
+English:
+This is a Full Stack application built with MVC architecture. It leverages Node.js and Express for backend logic, combined with HTML5, CSS3, and JavaScript for a dynamic frontend featuring a project catalog and a custom investment calculator. The system handles structured data through relational databases and is deployed in a production environment with professional Hosting and DNS configuration.
 
 link project: (https://pagina-constructorardh-1.onrender.com/)
 
