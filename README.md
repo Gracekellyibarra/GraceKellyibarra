@@ -39,13 +39,24 @@
 
 ### 🎬 Cinema web (Full Stack)
 
-Español:
-Aplicación Full Stack diseñada para la gestión de una plataforma de cine. Utiliza Node.js y Express en el backend para procesar reservas y administrar la cartelera, mientras que el frontend está construido con HTML5, CSS3 y JavaScript para ofrecer una experiencia de usuario fluida. El sistema se integra con una base de datos relacional (MySQL/SQL Server) para el almacenamiento de películas, horarios y datos de usuarios, aplicando una arquitectura modular que facilita el mantenimiento y escalabilidad del código.
+1-Web App Cinema SPRING:
+Este es un proyecto que contiene un ejemplo con Spring, una aplicacion web monolitica con las operacionnes CRUD create, read,update, delete de Peliculas. La aplicacion usa Spring Security con CSRF (Cross-Site Request Forgery) . Tiene dos tipos de usuarios ADMIN, USER. Cada usuario tiene distinto tipo de autorización.
 
-English:
-A Full Stack application developed for cinema platform management. It leverages Node.js and Express on the backend to handle bookings and movie listings, with a frontend built on HTML5, CSS3, and JavaScript for a seamless user experience. The system integrates a relational database (MySQL/SQL Server) to store movie data, schedules, and user information, following a modular architecture that ensures code maintainability and scalability.
+Requisitos
+Java 8
+Maven 3.0
+Eclipse
+Spring Boot
+Bootstrap
+Dependencias del proyecto SpringBoot
+Spring Web
+Spring Data JPA
+Thymeleaf
+Spring Boot DevTools
+MySQL Driver
+Spring Security
 
-Code Project: (https://github.com/Gracekellyibarra/CINEMA-REPOSITORY.git)
+Code Project: (https://github.com/Gracekellyibarra/CINEMA-REPOSITORY-SPRING.git)
 * **ES:** Sistema de gestión cinematográfica con Node.js, Express y bases de datos relacionales.
 * **EN:** Cinema management system built with Node.js, Express, and relational databases.
 <img width="1031" height="900" alt="Captura de pantalla 2026-02-22 210715" src="https://github.com/user-attachments/assets/0e7f053d-b67c-41db-b387-134af40ea645" />
