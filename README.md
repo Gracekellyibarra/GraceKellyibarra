@@ -37,14 +37,17 @@
 
 ## 🚀 PROJECTS / PROYECTOS
 
-### 🎬 Movie App (Full Stack)
+### 🎬 Cinema web (Full Stack)
+
+Code Project: ()
 * **ES:** Sistema de gestión cinematográfica con Node.js, Express y bases de datos relacionales.
 * **EN:** Cinema management system built with Node.js, Express, and relational databases.
 * [LIVE DEMO] | [SOURCE CODE]
 
-### 🏗️ RDH Constructora Web
+### 🏗️ RDH Constructora Web (Full Stack)
 
 link project: (https://pagina-constructorardh-1.onrender.com/)
+Code Project: ()
 * **ES:** Sitio corporativo con arquitectura MVC, incluyendo calculadora de inversión y despliegue en Hosting/DNS productivo.
 * **EN:** Corporate website with MVC architecture, including an investment calculator and deployment to productive Hosting/DNS.
 * [LIVE DEMO] | [SOURCE CODE]
